@@ -1,4 +1,6 @@
-# ACI Health Check through proxy servers 
+# ACI Health Check Collector through proxy servers 
+
+This repository provides ACI Health Check Collector container which can be used at proxy-pass-through required environments.
 
 ## How to run
 
